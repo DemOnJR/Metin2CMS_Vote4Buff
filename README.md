@@ -1,5 +1,8 @@
 # Metin2CMS_Vote4Buff
 
+### HWID
+- [metin2pserver.net](hwid_metin2pserver.net.php)
+
 ## Step 1
 Upload the file that you want from repository to your webhost   
 **Important for security reasons use an random name for both folder/file make an folder like M_2aLQ inside it add the index.php and change it to something random NUJ80y7.php**   
